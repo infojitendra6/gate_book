@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/book_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/menu_list_item_state"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/book_image"
+        android:layout_width="100dp"
+        android:layout_height="160dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:minHeight="160dp">
+
+        <ImageButton
+            android:id="@+id/close_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:src="@drawable/ic_action_navigation_close" />
+
+        <com.kopykitab.gate.components.TextView
+            android:id="@+id/book_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Book Name"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            custom:font_name="Roboto-Medium" />
+
+        <com.kopykitab.gate.components.TextView
+            android:id="@+id/book_author"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/book_name"
+            android:layout_marginTop="8dp"
+            android:text="Book Author"
+            android:textColor="@android:color/black"
+            custom:font_name="Roboto-Light" />
+
+        <RelativeLayout
+            android:id="@+id/book_price_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/book_author"
+            android:layout_marginTop="8dp"
+            android:gravity="bottom">
+
+            <com.kopykitab.gate.components.TextView
+                android:id="@+id/book_price_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:text="Price 1"
+                android:textColor="#999999"
+                android:textSize="12sp"
+                custom:font_name="Roboto-Medium" />
+
+            <com.kopykitab.gate.components.TextView
+                android:id="@+id/book_price_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_toRightOf="@id/book_price_1"
+                android:text="Price 2"
+                android:textColor="@color/action_bar_background"
+                android:textSize="13sp"
+                custom:font_name="Roboto-Medium" />
+        </RelativeLayout>
+
+        <com.kopykitab.gate.components.TextView
+            android:id="@+id/book_subscription_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book_price_details"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/permission_rounded_button"
+            android:paddingBottom="8dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="8dp" />
+    </RelativeLayout>
+
+</LinearLayout>

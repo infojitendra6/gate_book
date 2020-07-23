@@ -1,0 +1,251 @@
+{
+  "project_info": {
+    "project_number": "1034096850870",
+    "project_id": "graceful-mile-861"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034096850870:android:d5987efb9f0bb87a",
+        "android_client_info": {
+          "package_name": "com.kopykitab.ereader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034096850870-604h29rpntk0ia4to1hf9qgdnvredf9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kopykitab.ereader",
+            "certificate_hash": "69c5da19e66260ec352b6b98292db6f6a17c9a9c"
+          }
+        },
+        {
+          "client_id": "1034096850870-o7bj1ga5kd04u406rno5l6hce1gnpsm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kopykitab.ereader",
+            "certificate_hash": "382fc24f019cef7e26c8c0e16c6ce6b2af487e55"
+          }
+        },
+        {
+          "client_id": "1034096850870-11b3ebbb69vs8p5avn49ec14f677thbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrePdmK-JYbkIvJ0ldgNrABno5o0_V6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034096850870:android:5ebe45b1177fe78f",
+        "android_client_info": {
+          "package_name": "com.kopykitab.ncert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034096850870-l0srp8g1hp26qasldv217j2h212qm5aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kopykitab.ncert",
+            "certificate_hash": "382fc24f019cef7e26c8c0e16c6ce6b2af487e55"
+          }
+        },
+        {
+          "client_id": "1034096850870-11b3ebbb69vs8p5avn49ec14f677thbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrePdmK-JYbkIvJ0ldgNrABno5o0_V6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034096850870:android:991d97b07673d36c",
+        "android_client_info": {
+          "package_name": "com.kopykitab.mbdpublishers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034096850870-ug1b7ah9o03b4dqv5l0sgd22r1224ff8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kopykitab.mbdpublishers",
+            "certificate_hash": "382fc24f019cef7e26c8c0e16c6ce6b2af487e55"
+          }
+        },
+        {
+          "client_id": "1034096850870-11b3ebbb69vs8p5avn49ec14f677thbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrePdmK-JYbkIvJ0ldgNrABno5o0_V6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034096850870:android:da5f27f06dacd20b",
+        "android_client_info": {
+          "package_name": "com.kopykitab.ugcnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034096850870-17qb7fsarec93ed227h0hp0d5una7ipc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kopykitab.ugcnet",
+            "certificate_hash": "382fc24f019cef7e26c8c0e16c6ce6b2af487e55"
+          }
+        },
+        {
+          "client_id": "1034096850870-11b3ebbb69vs8p5avn49ec14f677thbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrePdmK-JYbkIvJ0ldgNrABno5o0_V6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034096850870:android:274e98d8c54f7b91",
+        "android_client_info": {
+          "package_name": "com.kopykitab.icsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034096850870-fru0hfii44mtgls4h7v7e3bcd95d394d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kopykitab.icsi",
+            "certificate_hash": "382fc24f019cef7e26c8c0e16c6ce6b2af487e55"
+          }
+        },
+        {
+          "client_id": "1034096850870-11b3ebbb69vs8p5avn49ec14f677thbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrePdmK-JYbkIvJ0ldgNrABno5o0_V6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034096850870:android:9f5b843bcce45b2d",
+        "android_client_info": {
+          "package_name": "com.kopykitab.gate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034096850870-b5ojiv0rkmtjdvai22ql4lhivs7ui02q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kopykitab.gate",
+            "certificate_hash": "382fc24f019cef7e26c8c0e16c6ce6b2af487e55"
+          }
+        },
+        {
+          "client_id": "1034096850870-11b3ebbb69vs8p5avn49ec14f677thbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrePdmK-JYbkIvJ0ldgNrABno5o0_V6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
